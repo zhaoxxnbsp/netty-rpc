@@ -18,6 +18,7 @@
 
     <modules>
         <module>dependencies</module>
+        <module>domain</module>
 
     </modules>
 
