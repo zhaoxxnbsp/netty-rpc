@@ -5,7 +5,7 @@
 
 ## 流程概览
 
-![](https://note.youdao.com/yws/public/resource/b7e921b1e365f14639bba97ab24422fc/xmlnote/8F13E3CE2C2B49B6810CB54D2DBBD9BA/7971)
+![](./doc/flow.png)
 
 ## 步骤
 
